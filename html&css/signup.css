@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+}
+.title {
+  background-color: black;
+  color: white;
+  display: block;
+  text-align: center;
+}
